@@ -1,7 +1,7 @@
 ![Banner for Brian Breeden](https://github.com/BBreeden/BBreeden/blob/master/banner.jpg)
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 <!--
 **BBreeden/BBreeden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
